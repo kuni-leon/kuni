@@ -1,0 +1,8 @@
+{
+"name":"kuni",
+"ticker":"KUNI",
+"discordId":"802856309916827659",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/kuni-leon/kuni/main/poolMetaData.json",
+"validation":"https://xstakepool.com/sjg-validation.json"
+}
